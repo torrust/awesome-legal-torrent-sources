@@ -32,7 +32,7 @@ Sources that mix legal and potentially copyrighted content (like general-purpose
 
 Sources are listed in tables with the following format:
 
-```
+```markdown
 ### Source Name
 
 |              |                                              |

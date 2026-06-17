@@ -27,22 +27,22 @@ The main source of friction for legal torrenting is **discovery**. Unlike centra
 
 ### Internet Archive
 
-|              |                                                                                                |
-| ------------ | ---------------------------------------------------------------------------------------------- |
-| **Website**  | [https://archive.org](https://archive.org)                                                     |
-| **Torrents** | [https://archive.org/details/bittorrent](https://archive.org/details/bittorrent)               |
-| **Status**   | ✅ Active                                                                                      |
-| **Category** | Books, movies, music, software, datasets                                                       |
+|              |                                                                                  |
+| ------------ | -------------------------------------------------------------------------------- |
+| **Website**  | [https://archive.org](https://archive.org)                                       |
+| **Torrents** | [https://archive.org/details/bittorrent](https://archive.org/details/bittorrent) |
+| **Status**   | ✅ Active                                                                        |
+| **Category** | Books, movies, music, software, datasets                                         |
 
 One of the largest digital libraries in the world. Offers millions of free books, movies, music recordings, software packages, and datasets, many available via BitTorrent. The most comprehensive source of unquestionably legal torrents on the internet.
 
 ### Project Gutenberg
 
-|              |                                                             |
-| ------------ | ----------------------------------------------------------- |
-| **Website**  | [https://www.gutenberg.org](https://www.gutenberg.org)      |
-| **Status**   | ✅ Active                                                   |
-| **Category** | Ebooks (public domain literature)                           |
+|              |                                                        |
+| ------------ | ------------------------------------------------------ |
+| **Website**  | [https://www.gutenberg.org](https://www.gutenberg.org) |
+| **Status**   | ✅ Active                                              |
+| **Category** | Ebooks (public domain literature)                      |
 
 Provides more than 70,000 free public-domain ebooks. Some collections are distributed via torrents. The oldest digital library of freely redistributable literary works.
 
@@ -92,11 +92,11 @@ Official torrents for Fedora workstation, server, and atomic images.
 
 ### Linux Tracker
 
-|              |                                                              |
-| ------------ | ------------------------------------------------------------ |
-| **Website**  | [https://linuxtracker.org](https://linuxtracker.org)         |
-| **Status**   | ✅ Active                                                    |
-| **Category** | Linux distribution ISOs (community tracker)                  |
+|              |                                                      |
+| ------------ | ---------------------------------------------------- |
+| **Website**  | [https://linuxtracker.org](https://linuxtracker.org) |
+| **Status**   | ✅ Active                                            |
+| **Category** | Linux distribution ISOs (community tracker)          |
 
 Community-driven tracker dedicated entirely to Linux distribution torrents. Hosts a wide variety of distros including smaller niche distributions.
 
@@ -116,11 +116,11 @@ Official BitTorrent downloads for Slackware Linux.
 
 ### Blender Foundation Open Movies
 
-|              |                                                                                  |
-| ------------ | -------------------------------------------------------------------------------- |
-| **Website**  | [https://studio.blender.org/films/](https://studio.blender.org/films/)           |
-| **Status**   | ✅ Active                                                                        |
-| **Category** | Open-licensed animated films                                                     |
+|              |                                                                        |
+| ------------ | ---------------------------------------------------------------------- |
+| **Website**  | [https://studio.blender.org/films/](https://studio.blender.org/films/) |
+| **Status**   | ✅ Active                                                              |
+| **Category** | Open-licensed animated films                                           |
 
 Produces and distributes open-licensed animated films (Big Buck Bunny, Sintel, Tears of Steel, Cosmos Laundromat) under Creative Commons licenses.
 
@@ -128,23 +128,13 @@ Produces and distributes open-licensed animated films (Big Buck Bunny, Sintel, T
 
 ## Music
 
-### Jamendo
-
-|              |                                                      |
-| ------------ | ---------------------------------------------------- |
-| **Website**  | [https://www.jamendo.com](https://www.jamendo.com)   |
-| **Status**   | ✅ Active                                            |
-| **Category** | Music (Creative Commons)                             |
-
-A music community where independent artists share their work under Creative Commons licenses. Music can be streamed or downloaded via BitTorrent.
-
 ### eTree
 
-|              |                                                    |
-| ------------ | -------------------------------------------------- |
-| **Website**  | [https://bt.etree.org](https://bt.etree.org)       |
-| **Status**   | ✅ Active                                          |
-| **Category** | Live concert recordings                            |
+|              |                                              |
+| ------------ | -------------------------------------------- |
+| **Website**  | [https://bt.etree.org](https://bt.etree.org) |
+| **Status**   | ✅ Active                                    |
+| **Category** | Live concert recordings                      |
 
 Community dedicated to trading live concert recordings of musical artists who allow non-commercial trading of their performances.
 
@@ -154,11 +144,11 @@ Community dedicated to trading live concert recordings of musical artists who al
 
 ### Academic Torrents
 
-|              |                                                                  |
-| ------------ | ---------------------------------------------------------------- |
-| **Website**  | [https://academictorrents.com](https://academictorrents.com)     |
-| **Status**   | ✅ Active                                                        |
-| **Category** | Research datasets, academic papers                               |
+|              |                                                              |
+| ------------ | ------------------------------------------------------------ |
+| **Website**  | [https://academictorrents.com](https://academictorrents.com) |
+| **Status**   | ✅ Active                                                    |
+| **Category** | Research datasets, academic papers                           |
 
 Distributed dataset-sharing platform built on BitTorrent. Used for machine learning datasets, scientific research data, and large-scale academic information.
 
@@ -168,18 +158,18 @@ Distributed dataset-sharing platform built on BitTorrent. Used for machine learn
 
 These sources were once active but are no longer available. Listed for historical reference.
 
-| Source                   | URL                                          | Status       | Notes                               |
-| ------------------------ | -------------------------------------------- | ------------ | ----------------------------------- |
-| Legit Torrents           | <https://www.legittorrents.info/>            | ❌ Shut down | RIP 2005–2023                       |
-| Vodo                     | <https://vodo.net/>                          | ❌ Offline   | HTTP 522                            |
-| Miro Guide               | <https://www.miroguide.com/>                 | ❌ Defunct   | No longer a torrent site            |
-| Bitlove                  | <https://bitlove.org/>                       | ❌ Offline   | Cannot be reached                   |
-| Game Updates             | <https://www.gameupdates.org/>               | ❌ Defunct   | Domain repurposed                   |
-| Vuze StudioHD Network    | <https://www.vuze.com/content/>              | ❌ Offline   | Content directory unavailable       |
-| BitTorrent Now           | <https://bittorrent.com/now>                 | ❌ Defunct   | Service discontinued                |
-| Clear Bits               | —                                            | ❌ Defunct   | Shut down                           |
-| COTapers                 | —                                            | ❌ Defunct   | No longer active                    |
-| SXSW Torrents            | —                                            | ❌ Defunct   | Festival torrents discontinued      |
+| Source                | URL                               | Status       | Notes                          |
+| --------------------- | --------------------------------- | ------------ | ------------------------------ |
+| Legit Torrents        | <https://www.legittorrents.info/> | ❌ Shut down | RIP 2005–2023                  |
+| Vodo                  | <https://vodo.net/>               | ❌ Offline   | HTTP 522                       |
+| Miro Guide            | <https://www.miroguide.com/>      | ❌ Defunct   | No longer a torrent site       |
+| Bitlove               | <https://bitlove.org/>            | ❌ Offline   | Cannot be reached              |
+| Game Updates          | <https://www.gameupdates.org/>    | ❌ Defunct   | Domain repurposed              |
+| Vuze StudioHD Network | <https://www.vuze.com/content/>   | ❌ Offline   | Content directory unavailable  |
+| BitTorrent Now        | <https://bittorrent.com/now>      | ❌ Defunct   | Service discontinued           |
+| Clear Bits            | —                                 | ❌ Defunct   | Shut down                      |
+| COTapers              | —                                 | ❌ Defunct   | No longer active               |
+| SXSW Torrents         | —                                 | ❌ Defunct   | Festival torrents discontinued |
 
 ---
 
